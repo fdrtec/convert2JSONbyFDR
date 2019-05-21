@@ -1,0 +1,8 @@
+*.xml
+*.csv
+*.xlsx
+codigos_resultados.json
+agenda.json
+node_modules
+.idea/
+
