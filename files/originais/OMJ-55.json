@@ -1,0 +1,72 @@
+[
+  {
+    "acronym": "DIC",
+    "extractionID": "DIC1",
+    "label": "singleSelect: autorizou consentimento para o estudo?",
+    "dataType": "Integer",
+    "extractionValues": [
+      1,
+      "sim",
+      2,
+      "não"
+    ],
+    "metadata": [
+      1,
+      "MDA",
+      2,
+      "MDB",
+      3,
+      "MDC",
+      4,
+      "MDD"
+    ],
+    "acceptAnswer": [
+      true,
+      false
+    ]
+  },
+  {
+    "acronym": "DIC",
+    "extractionID": "DIC2",
+    "label": "integer: qual o número",
+    "dataType": "Integer",
+    "extractionValues": [
+      "Integer"
+    ],
+    "metadata": [
+      1,
+      "MDA",
+      2,
+      "MDB",
+      3,
+      "MDC",
+      4,
+      "MDD"
+    ],
+    "acceptAnswer": [
+      true,
+      false
+    ]
+  },
+  {
+    "acronym": "DIC",
+    "extractionID": "DIC3",
+    "label": "date: qual a data?",
+    "dataType": "LocalDate",
+    "extractionValues": [],
+    "metadata": [
+      1,
+      "MDA",
+      2,
+      "MDB",
+      3,
+      "MDC",
+      4,
+      "MDD"
+    ],
+    "acceptAnswer": [
+      true,
+      false
+    ]
+  }
+]
